@@ -1,0 +1,23 @@
+table, th, td {
+    border: 0.1rem solid #000000;
+    border-collapse: collapse;
+}
+table {
+    border-radius: auto;
+}
+th {
+    color: #B8B0BF;
+    background-color: #495F73;
+}
+th#headerrow {
+    color: #B8B0BF;
+    background-color: #000000;
+}
+.darkrow {
+    color: #B8B0BF;
+    background-color: #566D8C;
+}
+.lightrow {
+    color: #566D8C;
+    background-color: #B8B0BF;
+}
